@@ -1,5 +1,6 @@
 #!/bin/zsh
 currentPath=$(dirname "$0")
+alias dev='cd $HOME/dev/'
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 
 source $currentPath/functions/functions.sh
