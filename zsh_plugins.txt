@@ -1,0 +1,9 @@
+# oh-my-zsh
+robbyrussell/oh-my-zsh path:lib/
+
+# oh-my-zsh theme
+caiogondim/bullet-train.zsh
+
+# other zsh plugins
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
